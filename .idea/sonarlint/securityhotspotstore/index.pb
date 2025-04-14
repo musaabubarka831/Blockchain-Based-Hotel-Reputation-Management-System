@@ -9,3 +9,5 @@ T
 $contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
 S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
+R
+"contracts/response-management.clar,1/5/156521e6825c6b0a2592a5bd78016ac50a6f7c98
