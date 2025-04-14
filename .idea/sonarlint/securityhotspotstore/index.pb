@@ -11,3 +11,7 @@ S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
 R
 "contracts/response-management.clar,1/5/156521e6825c6b0a2592a5bd78016ac50a6f7c98
+T
+$contracts/review-authentication.clar,7/0/70381bdd76c2d68626b85688bf9015e932adc46d
+S
+#tests/review-authentication.test.ts,a/e/ae0f512f9639bc2535ee77a19be247a2b13acaf2
